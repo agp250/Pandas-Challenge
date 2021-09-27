@@ -1,5 +1,5 @@
 # Pandas-Challenge
-Pandas homework for USC bootcamp
+Pandas homework for USC bootcamp Jupyter notebook can be found in the master branch of this repository
 
 
 # Pandas Homework - Pandas, Pandas, Pandas
